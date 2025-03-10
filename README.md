@@ -20,8 +20,7 @@ pip install kagglehub torchaudio librosa numpy scikit-learn
 ## Project Structure
 ```
 .
-├── dataset_download.py  # Script to download dataset
-├── train.py             # Training and evaluation script
+├── cats_dogs_audio.ipynb  # Script to download dataset
 └── README.md            # Project documentation
 ```
 
